@@ -12,6 +12,7 @@
 }
 
 .three-lines {
+    min-height: 4.5em;
     overflow: hidden;
     display: -webkit-box;
     -webkit-line-clamp: 3;
