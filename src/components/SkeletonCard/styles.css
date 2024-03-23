@@ -20,7 +20,7 @@
     -webkit-box-orient: vertical;
 }
 
-.is-transparent {
+/* .is-transparent {
     color: transparent !important;
 }
 
@@ -38,16 +38,13 @@
 @keyframes loading {
     0% {
         background-color: #f2f2f2;
-        /* Light gray */
     }
 
     50% {
         background-color: #e0e0e0;
-        /* Slightly darker gray */
     }
 
     100% {
         background-color: #f2f2f2;
-        /* Light gray */
     }
-}
+} */
