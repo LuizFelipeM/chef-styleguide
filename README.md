@@ -8,11 +8,13 @@
     Chef Styleguide - Single-SPA Application
 </h1>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2c26222c-a666-4fe4-9357-c3de9005ce93/deploy-status)](https://app.netlify.com/sites/chef-styleguide/deploys)
+
 This project was created to learn a set of [techonologies](#technologies). They are implemented just for fun in a recipes search website called Chef.
 
 This repository is the Single-SPA Application responsible for providing basic styleguide components shared throughout the [7 other Single-SPA Applications](#applications) this enable consistency in the entire application.
 
-⚠ **DISCLAIMER** ⚠
+**⚠ DISCLAIMER ⚠**
 
 This approach is not recommended to microfrontend styleguide due to the microfrontend dependency that is caused. I choose this approach just to show how parcels behave in different scenarios.
 
